@@ -1,4 +1,4 @@
-Dragon Technologies
+# Dragon Technologies
 We solve a common problem in the technology and software development market, we create the technology in a way that can solve your problem and not bring new problems to your company.
 
 Through our own methodology, our managers aim at quality, long-term maintenance through automated tests that ensure that your product works as it should and avoids rework.
